@@ -1,8 +1,8 @@
 
 import requests
 
-url = 'http://localhost:9696/predict'
-
+#url = 'http://localhost:9696/predict'
+url = "https://spring-meadow-4138.fly.dev/predict"
 
 customer =  {
     "gender": "male",
